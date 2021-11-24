@@ -16,6 +16,9 @@
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
     <item>
+     <widget class="QTextBrowser" name="textBrowser_printStdout"/>
+    </item>
+    <item>
      <widget class="QPushButton" name="pushButton_runScript">
       <property name="text">
        <string>Run Script Demo</string>
